@@ -11,11 +11,15 @@ An **HR Analytics Dashboard** built in **Power BI** to analyze employee attritio
 - **Attrition by Job Role** – Focus on departments with critical turnover rates.
 
 ## 🖼 Dashboard Preview
-<img src="hr_dashboard.png" alt="HR Analytics Dashboard" width="800">
+<!-- Image with spaces encoded as %20 or wrapped with quotes -->
+<img src="HR%20dashboard.png" alt="HR Analytics Dashboard" width="800" />
+
+<!-- OR alternatively -->
+<!-- ![HR Analytics Dashboard]( "HR dashboard.png") -->
 
 ## 📂 Files in this Repository
 - `HR_Analytics_Dashboard.pbix` → Main Power BI dashboard file.
-- `hr_dashboard.png` → Dashboard preview image.
+- `HR dashboard.png` → Dashboard preview image.
 - `hr_data_sample.csv` → Optional sample dataset.
 
 ## 🚀 How to Use
@@ -32,12 +36,10 @@ An **HR Analytics Dashboard** built in **Power BI** to analyze employee attritio
 ---
 
 ## 🔗 Related Dashboards
-## Related Projects
-
-- [Realtime Weather Forecast Dashboard](https://github.com/Rahatebatool33/Realtime-Weather-Forecast-Dashboard)
-
+- 🌦 [Realtime Weather Forecast Dashboard – Power BI](#)
 - 📈 [Sales Performance Dashboard – Power BI](#)
 - 🏢 [Employee Performance Tracker – Power BI](#)
 
 ---
+
 ⭐ If this dashboard helps your HR strategy, give the repository a star and share it!
